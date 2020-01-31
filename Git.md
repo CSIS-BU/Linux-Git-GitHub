@@ -111,3 +111,26 @@ Note: Git will NOT track the changes automatically, and it would not know the ne
 
         git log
 
+14. Once the snapshot is taken, you are safe to delete the file **test.txt** as you'll be able to recover it through the repo. First delete the **test.txt** file, then check the status of the repo again.
+
+        git status
+
+    It says
+
+        Changes not staged for commit:
+            (use "git add/rm <file>..." to update what will be committed)
+            (use "git restore <file>..." to discard changes in working directory)
+                    deleted:    test.txt
+
+15. You may recover the deleted file with
+
+        git restore test.txt
+
+    And, Kaboom! The file is back.
+
+16. If you make changes to many files and folders, and would like to track all changes under the current directory, you may run
+
+        git add .
+
+17. Don't forget, tracking a file is not equivalent to taking a snapshot. The files being tracked may get changed before the snapshot is taken. So, before you **commit**, make sure you **track** the version of the files you want to have in the snapshot.
+
