@@ -134,3 +134,6 @@ Note: Git will NOT track the changes automatically, and it would not know the ne
 
 17. Don't forget, tracking a file is not equivalent to taking a snapshot. The files being tracked may get changed before the snapshot is taken. So, before you **commit**, make sure you **track** the version of the files you want to have in the snapshot.
 
+## Conclusion
+
+    Please be aware that I cannot cover all the important features provided by Git. This tutorial is just to get you started. Ther are many other things, such as **Branching, Merging, Stashing, Cleaning, Selection, Staging** and many more that you should learn. Please refer to the **Pro Git** book provided above to learn Git. 
