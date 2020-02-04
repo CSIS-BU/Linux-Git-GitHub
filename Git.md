@@ -137,3 +137,23 @@ Note: Git will NOT track the changes automatically, and it would not know the ne
 ## Conclusion
 
 Please be aware that I cannot cover all the important features provided by Git. This tutorial is just to get you started. Ther are many other things, such as **Branching, Merging, Stashing, Cleaning, Selection, Staging** and many more that you should learn. Please refer to the **Pro Git** book provided above to learn Git. 
+
+## Important Commands
+
+[Git Cheat Sheet](https://github.github.com/training-kit/downloads/github-git-cheat-sheet.pdf)
+
+        git init
+        git add
+        git commit
+        git branch
+        git checkout
+        git push
+        git pull
+        git clone
+        git log
+        git status
+        git diff
+        git reset
+        git remote
+
+[Git cheat sheet (more commands!)](https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet)
