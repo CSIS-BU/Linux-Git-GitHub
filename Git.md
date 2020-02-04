@@ -5,6 +5,10 @@
 ## Reference
 
 * [Git](https://git-scm.com/)
+* [Official Git tutorial](https://git-scm.com/docs/gittutorial)
+* [Learn Git branching](https://learngitbranching.js.org/)
+* [Git Immersion](http://gitimmersion.com/)
+* [Everyday Git](https://git-scm.com/docs/giteveryday)
 * [(free e-book) Pro Git](https://git-scm.com/book/en/v2)
 
 ## Introduction
