@@ -27,11 +27,11 @@
 
 ### __Connect your local project folder to your **empty** folder/repository on Github.__
 
-    The screen you should be seeing now on Github is titled 'Quick setup — if you’ve done this kind of thing before'.
+The screen you should be seeing now on Github is titled 'Quick setup — if you’ve done this kind of thing before'.
 
-    Copy the link in the input right beneath the title, it should look something like this: https://github.com/[your ID]/test-repo.git 
+Copy the link in the input right beneath the title, it should look something like this: https://github.com/[your ID]/test-repo.git 
     
-    This is the web address that your local folder will use to push its contents to the remote folder on Github.
+This is the web address that your local folder will use to push its contents to the remote folder on Github.
 
 1. Go back to your project in the terminal/command line.
 2. In your terminal/command line, type git remote add origin [copied web address]
