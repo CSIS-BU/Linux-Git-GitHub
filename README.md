@@ -1,2 +1,2 @@
-# Introduction to Linx, Git, and GitHub
+# Introduction to Linux, Git, and GitHub
 
