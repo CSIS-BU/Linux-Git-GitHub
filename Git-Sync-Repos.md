@@ -54,3 +54,8 @@ In this case, you need to force Git to ignore the unrelated history and combine 
         git pull --allow-unrelated-histories
         (or git pull origin master --allow-unrelated-histories)
 
+    c. (Optional) You may encounter conflicts due to multiple developers working on the same project. You'll need to know how to resolve the conflict. I'll skip this part for simplicity.
+    
+    d. Finally, don't forget to push the local repo to the remote
+    
+        git push
